@@ -27,7 +27,7 @@ Accordings to formula
 
 @$$-mathjax{\lim\limits_{x \to 1} (f + g) = 0}
 
-is correct? And this is graph of @$$-mathjax{f + g}
+is correct? And this is graph of @$-mathjax{f} and @$-mathjax{g}
 
 @(plot (list
         (function
